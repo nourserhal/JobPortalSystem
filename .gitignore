@@ -1,0 +1,7 @@
+node_modules/
+bin/
+obj/
+.vs/
+backend/wwwroot/uploads/
+frontend/dist/
+mobile/.expo/

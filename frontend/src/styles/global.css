@@ -1,0 +1,15 @@
+/* ======================
+   GLOBAL RESET
+====================== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    background: #7a869f;
+    color: white;
+}
